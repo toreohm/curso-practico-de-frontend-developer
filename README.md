@@ -1,4 +1,5 @@
 # curso-practico-de-frontend-developer
+https://toreohm.github.io/curso-practico-de-frontend-developer/ <br>
 En este curso aprendemos hacer maquetado básico con HTML y CSS. Este es el curso ideal para poner en práctica lo aprendido de HTML y CSS.<br>
 Puntos claves del curso: https://platzi.com/cursos/frontend-developer-practico/ <br>
 <ul>
